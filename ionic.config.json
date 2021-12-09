@@ -1,0 +1,8 @@
+{
+  "name": "ionic-meanauth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
+ 
